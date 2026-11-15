@@ -1,0 +1,1560 @@
+{
+  "site": {
+    "title": "國中英語第三冊 核心文法夢幻島",
+    "slug": "english-book3-island",
+    "tagline": "一座島嶼，一個新發現，航向會考英語滿分航道。",
+    "author": "小羊兒（英語科教學團隊）",
+    "contact": "",
+    "audience": "國中八年級學習者與會考複習學生",
+    "language": "zh-TW",
+    "mascot": {
+      "name": "小羊兒",
+      "description": "戴著橘色魔法帽與圓眼鏡、熱愛英語與教學探險的島主小羊兒"
+    },
+    "certificate": {
+      "sealText": "英語第三冊精熟紀念"
+    }
+  },
+  "center": {
+    "name": "國中英語第三冊 核心文法夢幻島",
+    "role": "總複習島",
+    "description": "認識國中英語第三冊文法地圖、進行跨課總複習，查看學習進度並領取學習完成紀念證書。",
+    "blocks": [
+      {
+        "title": "歡迎登陸英語第三冊文法夢幻島",
+        "text": "歡迎來到「國中英語第三冊 核心文法夢幻島」！\n第三冊是國中英語學習歷程中承先啟後的最關鍵里程碑。在本冊中，文法從單純的單時態陳述，大幅跨越到「雙賓語轉移（授與動詞）」、「動詞名詞化（動名詞與不定詞）」、「四大花費動詞辨析」以及「條件副詞子句現在代未來」等會考高頻核心痛點。"
+      },
+      {
+        "title": "八大課程島文法航線總覽",
+        "text": "本群島涵蓋國中英語第三冊 L1～L6 全冊核心考點，分為兩大主題航線：\n1. L1～L3 基礎結構與時空連線：\n   - 第 1 島「氣象觀測島」：掌握天氣問句（What...like / How）與 rain/snow 四大換句法。\n   - 第 2 島「雙賓餽贈島」：精熟授與動詞（S + V + 人 + 物）與 to/for/of 三大介系詞陣營及 it/them 鐵律。\n   - 第 3 島「時空回廊島」：過去進行式（was/were + V-ing）搭配 when/while/before/after 時間子句。\n   - 第 4 島「真我名牌島」：所有格代名詞避免重複名詞與雙重所有格、電話禮儀標準應答（Speaking）。\n2. L4～L6 核心進階與會考大魔王：\n   - 第 5 島「超能動詞島」：動詞名詞化（V-ing / to VR）五大公理、受詞三大陣營、時空旅行動詞（remember/forget/stop）。\n   - 第 6 島「黃金算盤島」：四大花費動詞（spend / pay / cost / take）主詞與介系詞秒殺表。\n   - 第 7 島「未來預言島」：未來式 will / be going to、往來動詞現在進行式代未來、時間／條件副詞子句現在代未來。\n   - 第 8 島「羅盤領航島」：生活問路四大金句、指路片語及 cross vs. across / through 空間移動介系詞。"
+      },
+      {
+        "title": "航行指南與學習紀念證書",
+        "text": "每一座島嶼代表一個精選文法專題，你可以透過 3D 地圖或左側導覽清單進行探索：\n1. 點擊島嶼可聚焦縮放，探索島上風光與地標，再點擊建築物即可打開各島的精編教材、對比表與考前心法。\n2. 點擊中央島主建築可進入可旋轉的 3D 備課室，點選室內的島主小羊兒打開廣場導覽與總複習。\n3. 每座島嶼均設有 4 題自編練習題，即時作答並閱讀詳解；中央島提供跨課輪抽總複習（每輪各課 1 題，共 8 題）。\n4. 沿著島際步道與橋樑，遇見 14 位專屬概念島民與島主小羊兒，獲得即時文法問答與概念導引！\n5. 全部 8 課皆標記已讀，且各課隨堂測驗最高分達 75% 以上，即可在中央島「進度與證書」輸入姓名，製作並下載專屬「學習完成紀念證書（PNG / 列印 PDF）」！"
+      },
+      {
+        "title": "研習結業與特別致謝：感謝黃泓諺（焰兒）老師",
+        "text": "本網站由島主「小羊兒」經黃泓諺（紅焰／焰兒）老師線上焰兒研習結業後，獲得 teaching-dream-island Skill 所製作完成。\n特別感謝南陽國小資訊專任、知名教育科技與 AI 應用講師黃泓諺老師傾囊相授，無私分享 3D 教學夢幻島技能架構與嚴謹的驗收精神，讓國中英語第三冊的文法複習能化為一座充滿樂趣與成就感的立體冒險群島！"
+      }
+    ]
+  },
+  "themes": {
+    "style": "海洋探險",
+    "font": "手寫感",
+    "primary": "#0369a1",
+    "accent": "#0d9488",
+    "backgrounds": [
+      {
+        "name": "晨光",
+        "background": "#fff4e3",
+        "default": true
+      },
+      {
+        "name": "海霧",
+        "background": "#efe7f6",
+        "default": false
+      },
+      {
+        "name": "夜海",
+        "background": "#231d36",
+        "default": false
+      }
+    ]
+  },
+  "speaker": {
+    "name": "島主小羊兒",
+    "alias": "線上焰兒研習結業 · 英語科數位備課實踐者",
+    "image": "assets/xiaoyang-avatar.jpg",
+    "education": "經黃泓諺（紅焰／焰兒）老師線上焰兒研習結業，獲得 teaching-dream-island Skill 實作完成",
+    "teaching": "國中英語第三冊核心文法、素養導向評量與 3D 互動教材設計",
+    "administration": "特別致謝：感謝黃泓諺（紅焰／焰兒）老師無私指導與分享教學夢幻島 Skill",
+    "current": [
+      "小羊兒經黃泓諺老師線上焰兒研習結業後獲得 Skill 製作完成本網站",
+      "國中英語第三冊 L1～L6 八大文法群島與自編題庫研發"
+    ]
+  },
+  "editorialNote": "本網站由小羊兒經黃泓諺（紅焰／焰兒）老師線上焰兒研習結業後獲得 Skill 製作完成，特別感謝黃泓諺老師！教材內容依據國中英語第三冊核心課綱及題庫編寫，隨堂測驗題目附詳細解析。",
+  "appearance": {
+    "theme": "ocean",
+    "label": "海洋探險",
+    "colors": {}
+  },
+  "courses": [
+    {
+      "order": 1,
+      "id": "island-01",
+      "name": "氣象觀測島",
+      "aliases": [
+        "天氣",
+        "氣候",
+        "weather",
+        "rain",
+        "rainy",
+        "snow",
+        "snowy",
+        "換句"
+      ],
+      "group": "生活情境與時態",
+      "intro": "探索天氣詢問與四大換句表達，熟練名詞、形容詞與動詞用法變換。",
+      "goal": "掌握 What is the weather like / How is the weather，以及 rain / snow 的四種同義代換句型。",
+      "goalLabel": "核心學習目標",
+      "points": [],
+      "extra": "",
+      "link": "",
+      "material": "",
+      "comparison": {
+        "headers": [
+          "句型結構類型",
+          "主詞",
+          "核心動詞",
+          "受詞／修飾語範例"
+        ],
+        "rows": [
+          [
+            "動詞句型",
+            "It（虛主詞）",
+            "rains / snows",
+            "heavily / a lot（副詞）"
+          ],
+          [
+            "形容詞句型",
+            "It（虛主詞）",
+            "is",
+            "rainy / snowy today（形容詞）"
+          ],
+          [
+            "人物擁有句",
+            "We / People",
+            "have",
+            "a lot of rain（名詞不可數）"
+          ],
+          [
+            "存在句型",
+            "There",
+            "is",
+            "much rain / a lot of snow（名詞）"
+          ]
+        ]
+      },
+      "blocks": [
+        {
+          "title": "天氣兩大核心問句與形容詞應答",
+          "text": "詢問天氣最常用的兩大問句為「What is the weather like in + 地點?」與「How is the weather in + 地點?」。特別注意 What 必須搭配 like（like 為介系詞），而 How 絕不能接 like。\n回答天氣時，最常用虛主詞 It 表自然現象：\n• It is rainy / sunny / windy / cloudy / snowy today.\n天氣形容詞大多由名詞加上 -y 形成：rain → rainy、sun → sunny（重複字尾）、cloud → cloudy、wind → windy、snow → snowy。"
+        },
+        {
+          "title": "雨天與雪天四大神級換句結構",
+          "text": "會考與段考最常考「下雨／下雪」的四種句型轉換，主詞與動詞搭配必須絕對精準：\n1. 虛主詞 It 當主詞（動詞用 rain/snow）：It rains heavily in Taipei in winter.\n2. 虛主詞 It 當主詞（形容詞 rainy/snowy）：It is very rainy in Taipei in winter.\n3. 人類 We/They 當主詞（動詞用 have，搭配名詞 rain）：We have a lot of rain in Taipei in winter.\n4. There is 存在句當主詞（搭配名詞 rain）：There is a lot of rain in Taipei in winter.\n注意：rain 與 snow 當名詞時為不可數名詞，不可加 s，需用 much 或 a lot of 修飾；修飾動詞用副詞 heavily，修飾名詞則用形容詞 heavy/a lot of。"
+        }
+      ],
+      "prompts": [
+        "天氣換句速記口訣：\nIt rain 動詞加副詞；It is rainy 形容詞；\nWe have rain 用名詞；There is rain 不可數！"
+      ],
+      "promptTitles": [
+        "換句秒殺心法"
+      ],
+      "links": [],
+      "quiz": [
+        {
+          "id": "island-01-q1",
+          "question": "Tina: ________ is the weather like in Tokyo today?\nRay: It's windy and cool.",
+          "options": [
+            {
+              "id": "a",
+              "text": "How"
+            },
+            {
+              "id": "b",
+              "text": "What"
+            },
+            {
+              "id": "c",
+              "text": "When"
+            },
+            {
+              "id": "d",
+              "text": "Where"
+            }
+          ],
+          "answer": "b",
+          "explanation": "問句句尾有介系詞 like，標準疑問詞為 What。「What is the weather like?」等同於「How is the weather?」。故選 (B)。"
+        },
+        {
+          "id": "island-01-q2",
+          "question": "It was a ________ day yesterday. The sun shone brightly all day long.",
+          "options": [
+            {
+              "id": "a",
+              "text": "sunny"
+            },
+            {
+              "id": "b",
+              "text": "rainy"
+            },
+            {
+              "id": "c",
+              "text": "snowy"
+            },
+            {
+              "id": "d",
+              "text": "windy"
+            }
+          ],
+          "answer": "a",
+          "explanation": "由後句「陽光普照一整天（sun shone brightly）」可知昨天是晴天，需填入天氣形容詞 sunny。故選 (A)。"
+        },
+        {
+          "id": "island-01-q3",
+          "question": "選出與「It rained heavily in Yilan last night.」語意相同的正確句子：",
+          "options": [
+            {
+              "id": "a",
+              "text": "Yilan had a lot of heavy rain last night."
+            },
+            {
+              "id": "b",
+              "text": "It was very rain in Yilan last night."
+            },
+            {
+              "id": "c",
+              "text": "There were many rains in Yilan last night."
+            },
+            {
+              "id": "d",
+              "text": "We had heavily rain in Yilan last night."
+            }
+          ],
+          "answer": "a",
+          "explanation": "原句為 It + rained (動詞) + heavily (副詞)。換為 have 句型時為 人/地方 + had + a lot of + heavy (形容詞) + rain (不可數名詞)。故選 (A)。"
+        },
+        {
+          "id": "island-01-q4",
+          "question": "There ________ a lot of snow in Hokkaido in January every year.",
+          "options": [
+            {
+              "id": "a",
+              "text": "are"
+            },
+            {
+              "id": "b",
+              "text": "is"
+            },
+            {
+              "id": "c",
+              "text": "have"
+            },
+            {
+              "id": "d",
+              "text": "has"
+            }
+          ],
+          "answer": "b",
+          "explanation": "There is/are 句型中，snow 當名詞為不可數名詞，be 動詞必須使用單數 is。There 後不可直接接 have/has。故選 (B)。"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "island-02",
+      "name": "雙賓餽贈島",
+      "aliases": [
+        "授與動詞",
+        "雙賓語",
+        "give",
+        "send",
+        "show",
+        "buy",
+        "make",
+        "cook"
+      ],
+      "group": "生活情境與時態",
+      "intro": "破解授與動詞雙賓語結構，徹底分清 to、for、of 三大介系詞陣營。",
+      "goal": "精熟授與動詞兩種語序（S + V + 人 + 物 = S + V + 物 + 介系詞 + 人），並能正確選用 to 與 for。",
+      "goalLabel": "核心學習目標",
+      "points": [],
+      "extra": "",
+      "link": "",
+      "material": "",
+      "comparison": {
+        "headers": [
+          "介系詞",
+          "核心概念",
+          "常見動詞",
+          "例句對照"
+        ],
+        "rows": [
+          [
+            "to 陣營",
+            "方向轉移、遞交傳遞",
+            "give, send, show, write, pass, lend",
+            "He sent a letter to Mary."
+          ],
+          [
+            "for 陣營",
+            "勞力準備、愛心付出、購買製作",
+            "buy, make, cook, bake, get, find",
+            "Mom cooked a big meal for us."
+          ],
+          [
+            "of 陣營",
+            "詢問、求助",
+            "ask",
+            "May I ask a favor of you?"
+          ]
+        ]
+      },
+      "blocks": [
+        {
+          "title": "授與動詞基本概念與雙賓語切換",
+          "text": "授與動詞（Dative Verbs）表示「給予」或「為某人做某事」，後面可同時接兩個受詞：\n• 間接受詞（人） + 直接受詞（物）：S + V + 人 + 物。\n例：My uncle gave me a new watch.\n當我們將「物」移到動詞正後方時，後面必須加上介系詞才能接「人」：\n• S + V + 物 + 介系詞 (to / for / of) + 人。\n例：My uncle gave a new watch to me.\n特別公理：若直接受詞為代名詞 it 或 them 時，只能使用「V + it/them + 介系詞 + 人」結構，不可說 give me it！"
+        },
+        {
+          "title": "三大介系詞陣營秒記口訣",
+          "text": "1. to 陣營（具方向性／動作傳遞）：give、send、show、teach、write、lend、tell、throw、read、bring、pass。\n口訣：東西從甲地移到乙地，像箭頭指向對方，用 to！\n2. for 陣營（為對方做／勞力或花錢為人準備）：buy、make、cook、bake、find、get、choose、prepare。\n口訣：充滿愛心、花時間為某人烘焙製造購買，用 for！\n3. of 陣營：ask（問問題或請求：ask a question of someone）。"
+        }
+      ],
+      "prompts": [
+        "授與動詞口訣：\n遞送給教傳用 to；買煮做找愛用 for；\n代名詞 it/them 在中間，介系詞絕對不能少！"
+      ],
+      "promptTitles": [
+        "雙賓語切換心法"
+      ],
+      "links": [],
+      "quiz": [
+        {
+          "id": "island-02-q1",
+          "question": "Mom made a delicious chocolate cake ________ me on my fourteenth birthday.",
+          "options": [
+            {
+              "id": "a",
+              "text": "to"
+            },
+            {
+              "id": "b",
+              "text": "for"
+            },
+            {
+              "id": "c",
+              "text": "at"
+            },
+            {
+              "id": "d",
+              "text": "with"
+            }
+          ],
+          "answer": "b",
+          "explanation": "動詞 make（製作）屬於 for 陣營，句型為 make + 物 + for + 人。故選 (B)。"
+        },
+        {
+          "id": "island-02-q2",
+          "question": "Could you please pass the salt and pepper ________ me? They are too far from my seat.",
+          "options": [
+            {
+              "id": "a",
+              "text": "to"
+            },
+            {
+              "id": "b",
+              "text": "for"
+            },
+            {
+              "id": "c",
+              "text": "of"
+            },
+            {
+              "id": "d",
+              "text": "in"
+            }
+          ],
+          "answer": "a",
+          "explanation": "動詞 pass（傳遞）具有方向遞交性，屬於 to 陣營，句型為 pass + 物 + to + 人。故選 (A)。"
+        },
+        {
+          "id": "island-02-q3",
+          "question": "Mr. Brown bought a nice bicycle for his daughter yesterday.\n選出與上方句子意思相同的選項：",
+          "options": [
+            {
+              "id": "a",
+              "text": "Mr. Brown bought his daughter a nice bicycle yesterday."
+            },
+            {
+              "id": "b",
+              "text": "Mr. Brown bought a nice bicycle his daughter yesterday."
+            },
+            {
+              "id": "c",
+              "text": "Mr. Brown bought to his daughter a nice bicycle yesterday."
+            },
+            {
+              "id": "d",
+              "text": "Mr. Brown bought for his daughter a nice bicycle yesterday."
+            }
+          ],
+          "answer": "a",
+          "explanation": "buy + 物 + for + 人 轉換為「人前物後」時，介系詞省略，結構為 buy + 人 + 物。故選 (A)。"
+        },
+        {
+          "id": "island-02-q4",
+          "question": "Here is the comic book you wanted. I am happy to ________.",
+          "options": [
+            {
+              "id": "a",
+              "text": "give you it"
+            },
+            {
+              "id": "b",
+              "text": "give it you"
+            },
+            {
+              "id": "c",
+              "text": "give it to you"
+            },
+            {
+              "id": "d",
+              "text": "give to you it"
+            }
+          ],
+          "answer": "c",
+          "explanation": "當受詞為代名詞 it 或 them 時，不可放在句尾接在人後面，必須使用「V + it + 介系詞 + 人」，即 give it to you。故選 (C)。"
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "id": "island-03",
+      "name": "時空回廊島",
+      "aliases": [
+        "過去進行式",
+        "從屬連接詞",
+        "when",
+        "while",
+        "before",
+        "after"
+      ],
+      "group": "生活情境與時態",
+      "intro": "穿梭過去時空，掌握過去進行式與從屬連接詞 when、before、after 的時間邏輯。",
+      "goal": "能正確運用 was/were + V-ing 表達過去特定時間正在進行的動作，並熟練連接詞子句之時態搭配。",
+      "goalLabel": "核心學習目標",
+      "points": [],
+      "extra": "",
+      "link": "",
+      "material": "",
+      "comparison": {
+        "headers": [
+          "時態類型",
+          "動詞形式",
+          "時間點特性",
+          "經典例句"
+        ],
+        "rows": [
+          [
+            "過去簡單式",
+            "Ved（過去式）",
+            "過去發生的單純事實或完成事件",
+            "I watched a movie yesterday."
+          ],
+          [
+            "過去進行式",
+            "was / were + V-ing",
+            "過去某一具體瞬間正進行中",
+            "I was watching TV at 8:00 yesterday."
+          ],
+          [
+            "When 複合句",
+            "When + 瞬間短動作, 進行長動作",
+            "長短動作交疊（短打斷長）",
+            "When the phone rang, I was taking a bath."
+          ]
+        ]
+      },
+      "blocks": [
+        {
+          "title": "過去進行式結構與使用時機",
+          "text": "過去進行式（Past Continuous Tense）用來描述「過去某一特定時間點或時段正在進行」的動作。\n結構公式：主詞 + was / were + 動詞-ing。\n• I / He / She / It / 單數主詞 + was + V-ing\n• You / We / They / 複數主詞 + were + V-ing\n常見時間副詞搭配：\n• at 8:00 last night（昨晚八點整）\n• at that time / at that moment（在那時）\n• when S + 過去式動詞（當某事發生的那一瞬間）"
+        },
+        {
+          "title": "從屬連接詞 when / while / before / after 複合句",
+          "text": "當描述兩個動作在過去交織時，常運用從屬連接詞：\n1. when vs. while 時間交錯：\n   • when 引導「瞬間短動作（過去簡單式）」或特定時間點；while 專門引導「背景持續長動作（過去進行式）」。\n   例：When mom came home (瞬間短動作), I was doing my homework (持續長動作).\n   例：While I was talking on the phone, my mom was cooking.\n2. before（在…之前）與 after（在…之後）及主詞相同簡化：\n   • 連接詞放句首時，兩子句間必須加上逗號；放句中時，不加逗號。\n   例：Before he went to bed, he brushed his teeth. = He brushed his teeth before he went to bed.\n   • 主詞相同時可簡化為「Before / After + V-ing」：\n   例：After she did the dishes, she rested. → After doing the dishes, she rested."
+        }
+      ],
+      "prompts": [
+        "過去進行口訣：\n過去某刻正進行，was were 加上 V-ing；\n短動作打斷用過去式，長背景動作進行式！"
+      ],
+      "promptTitles": [
+        "時空交錯心法"
+      ],
+      "links": [],
+      "quiz": [
+        {
+          "id": "island-03-q1",
+          "question": "When the heavy earthquake struck yesterday afternoon, Mr. Lin ________ a shower in the bathroom.",
+          "options": [
+            {
+              "id": "a",
+              "text": "takes"
+            },
+            {
+              "id": "b",
+              "text": "took"
+            },
+            {
+              "id": "c",
+              "text": "was taking"
+            },
+            {
+              "id": "d",
+              "text": "is taking"
+            }
+          ],
+          "answer": "c",
+          "explanation": "地震襲擊（struck 為過去式）為瞬間短動作，當時林先生正在洗澡（持續長動作），因此需使用過去進行式 was taking。故選 (C)。"
+        },
+        {
+          "id": "island-03-q2",
+          "question": "Andy was playing online games ________ his mother came into his bedroom.",
+          "options": [
+            {
+              "id": "a",
+              "text": "because"
+            },
+            {
+              "id": "b",
+              "text": "when"
+            },
+            {
+              "id": "c",
+              "text": "so"
+            },
+            {
+              "id": "d",
+              "text": "although"
+            }
+          ],
+          "answer": "b",
+          "explanation": "主要子句是過去進行式，連接媽媽走進房間（came into）這個瞬間動作，應使用連接詞 when（當…的時候）。故選 (B)。"
+        },
+        {
+          "id": "island-03-q3",
+          "question": "What were you doing at nine o'clock last Sunday morning?\nI ________ my bicycle in the park with my sister.",
+          "options": [
+            {
+              "id": "a",
+              "text": "ride"
+            },
+            {
+              "id": "b",
+              "text": "rode"
+            },
+            {
+              "id": "c",
+              "text": "was riding"
+            },
+            {
+              "id": "d",
+              "text": "am riding"
+            }
+          ],
+          "answer": "c",
+          "explanation": "問句指明「上週日早上九點整」具體時間正在做什麼，回答亦需使用過去進行式，主詞 I 搭配 was riding。故選 (C)。"
+        },
+        {
+          "id": "island-03-q4",
+          "question": "選出標點符號與文法完全正確的句子：",
+          "options": [
+            {
+              "id": "a",
+              "text": "Before you leave the classroom please turn off the lights."
+            },
+            {
+              "id": "b",
+              "text": "Before you leave the classroom, please turn off the lights."
+            },
+            {
+              "id": "c",
+              "text": "Please turn off the lights, before you leave the classroom."
+            },
+            {
+              "id": "d",
+              "text": "You leave the classroom before, please turn off the lights."
+            }
+          ],
+          "answer": "b",
+          "explanation": "從屬連接詞 before 引導的子句置於句首時，兩子句間必須加逗號；置於主要子句之後時不加逗號。故 (B) 正確。"
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "id": "island-04",
+      "name": "真我名牌島",
+      "aliases": [
+        "所有格代名詞",
+        "電話",
+        "mine",
+        "yours",
+        "hers",
+        "theirs",
+        "speaking"
+      ],
+      "group": "日常社交與結構",
+      "intro": "釐清所有格代名詞避免重複名詞，熟練標準電話禮儀交際英語。",
+      "goal": "學會「所有格 + 名詞 = 所有格代名詞」等式轉換，並掌握 Speaking 等電話用語情境應用。",
+      "goalLabel": "核心學習目標",
+      "points": [],
+      "extra": "",
+      "link": "",
+      "material": "",
+      "comparison": {
+        "headers": [
+          "人稱分類",
+          "所有格（需接名詞）",
+          "所有格代名詞（獨立存在）",
+          "置換例句"
+        ],
+        "rows": [
+          [
+            "第一人稱單數",
+            "my jacket",
+            "mine",
+            "This jacket is mine."
+          ],
+          [
+            "第二人稱",
+            "your umbrella",
+            "yours",
+            "Is this umbrella yours?"
+          ],
+          [
+            "第三人稱女",
+            "her bicycle",
+            "hers",
+            "The bicycle is hers."
+          ],
+          [
+            "第三人稱男",
+            "his guitar",
+            "his",
+            "That cool guitar is his."
+          ],
+          [
+            "第一人稱複數",
+            "our classroom",
+            "ours",
+            "This room is ours."
+          ],
+          [
+            "第三人稱複數",
+            "their bags",
+            "theirs",
+            "Those bags are theirs."
+          ]
+        ]
+      },
+      "blocks": [
+        {
+          "title": "所有格代名詞公理與八大家族",
+          "text": "英文為了避免名詞反覆出現顯得冗贅，會使用「所有格代名詞」直接代替「所有格 + 名詞」：\n• 所有格代名詞 = 所有格 + 已經提過的名詞。\n例：This is my pencil. Where is your pencil? → Where is yours? (yours = your pencil)\n八大人稱對照表：\n• my → mine（我的）\n• your → yours（你的／你們的）\n• his → his（他的，形狀不變）\n• her → hers（她的）\n• its → 不單獨作所有格代名詞\n• our → ours（我們的）\n• their → theirs（他們的）\n• Tom's book → Tom's（湯姆的）\n雙重所有格與鐵律提醒：\n• 雙重所有格（a/an/this/some + 名詞 + of + 所有格代名詞）：He is a good friend of mine.（他是我的一位好朋友。）\n• 易錯鐵律：所有格代名詞後面「絕對不可」再接名詞！不能說 mine book (X)，只能說 my book 或 mine (O)。"
+        },
+        {
+          "title": "電話交際英語核心情境用語",
+          "text": "英語通電話時與面對面交談不同，不能說 I am Tom 或 Are you Mary?，請掌握四大黃金用語：\n1. 找某人接聽：May I speak to Ryan, please?\n2. 本人回答（我就是）：Speaking. 或 This is he/she speaking.（絕不能說 I am!）\n3. 表明自己身分：This is Tina calling. 或 It is Tina.\n4. 詢問對方是誰：Who's calling, please? 或 Who is this, please?"
+        }
+      ],
+      "prompts": [
+        "所有格代名詞心法：\n所有格加名詞等於代名詞；字尾常有 s 但 mine 大變身；\n接電話找本人請回答 Speaking；切記不可回答 I am！"
+      ],
+      "promptTitles": [
+        "名牌辨識口訣"
+      ],
+      "links": [],
+      "quiz": [
+        {
+          "id": "island-04-q1",
+          "question": "This blue umbrella is not mine. It's ________. She left it in the library yesterday.",
+          "options": [
+            {
+              "id": "a",
+              "text": "her"
+            },
+            {
+              "id": "b",
+              "text": "hers"
+            },
+            {
+              "id": "c",
+              "text": "she"
+            },
+            {
+              "id": "d",
+              "text": "herself"
+            }
+          ],
+          "answer": "b",
+          "explanation": "空格後面沒有名詞，必須使用所有格代名詞 hers（等於 her umbrella）。her 為所有格需接名詞。故選 (B)。"
+        },
+        {
+          "id": "island-04-q2",
+          "question": "Fay: Hello, may I speak to Ryan, please?\nRyan: ________. Who's calling, please?",
+          "options": [
+            {
+              "id": "a",
+              "text": "I am"
+            },
+            {
+              "id": "b",
+              "text": "Talking"
+            },
+            {
+              "id": "c",
+              "text": "Speaking"
+            },
+            {
+              "id": "d",
+              "text": "Who are you"
+            }
+          ],
+          "answer": "c",
+          "explanation": "電話英語中，當對方指名找自己時，回答「我就是／請講」之標準口語為 Speaking. 或 This is he speaking.。故選 (C)。"
+        },
+        {
+          "id": "island-04-q3",
+          "question": "My school uniform is much cleaner than ________.",
+          "options": [
+            {
+              "id": "a",
+              "text": "you"
+            },
+            {
+              "id": "b",
+              "text": "your"
+            },
+            {
+              "id": "c",
+              "text": "yours"
+            },
+            {
+              "id": "d",
+              "text": "yourself"
+            }
+          ],
+          "answer": "c",
+          "explanation": "比較對象必須對等，原意為「我的制服比『你的制服（your uniform）』乾淨」，因此需用所有格代名詞 yours。故選 (C)。"
+        },
+        {
+          "id": "island-04-q4",
+          "question": "Whose camera is this on the desk? / It's ________. He bought it last week.",
+          "options": [
+            {
+              "id": "a",
+              "text": "Tom's"
+            },
+            {
+              "id": "b",
+              "text": "Tom"
+            },
+            {
+              "id": "c",
+              "text": "him"
+            },
+            {
+              "id": "d",
+              "text": "he"
+            }
+          ],
+          "answer": "a",
+          "explanation": "詢問物品歸屬（Whose camera），回答應為「某人的（所有格代名詞）」，名詞加 's 可作所有格代名詞，Tom's = Tom's camera。故選 (A)。"
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "id": "island-05",
+      "name": "超能動詞島",
+      "aliases": [
+        "動名詞",
+        "不定詞",
+        "虛主詞",
+        "enjoy",
+        "practice",
+        "remember",
+        "forget",
+        "stop"
+      ],
+      "group": "核心進階文法",
+      "intro": "探究動名詞與不定詞的超能變身，破解受詞兩大陣營與時空旅行動詞陷阱。",
+      "goal": "掌握動名詞／不定詞作主詞（視為單數與虛主詞 It）、受詞陣營動詞，及 remember/forget/stop 語意差異。",
+      "goalLabel": "核心學習目標",
+      "points": [],
+      "extra": "",
+      "link": "",
+      "material": "",
+      "comparison": {
+        "headers": [
+          "動詞分類",
+          "搭配形式",
+          "代表動詞",
+          "語意與記憶訣竅"
+        ],
+        "rows": [
+          [
+            "只接動名詞",
+            "V + V-ing",
+            "enjoy, practice, finish, keep, mind",
+            "習慣、正在進行或逃避完成的事態"
+          ],
+          [
+            "只接不定詞",
+            "V + to VR",
+            "want, hope, plan, decide, need",
+            "朝向未來的目標、企圖與計畫"
+          ],
+          [
+            "時空旅行動詞",
+            "to VR (未做) / V-ing (已做)",
+            "remember, forget, stop",
+            "remember to lock (記得去鎖) vs. locked (記得鎖過)"
+          ]
+        ]
+      },
+      "blocks": [
+        {
+          "title": "動詞名詞化當主詞公理與五大基本法則",
+          "text": "英文文法鐵律：動詞原形不能直接放在句首作主詞，必須變身為「動名詞 (V-ing)」或「不定詞 (to VR)」！\n【公理一：主詞單數公理】動名詞或不定詞片語當主詞時，整個事件視為一件事情（單數），後方動詞必須使用單數形（is / was / V-s）！\n例：Playing video games is a lot of fun.（不可因為 games 用 are！）\n【公理二：虛主詞 It 平衡公理】當不定詞當主詞太長時，英文習慣將虛主詞 It 置於句首，真正主詞移至句尾：\n• It is + 形容詞 + (for 人) + to VR.\n例：It is important to get enough sleep.\n【公理三：介系詞必殺公理】所有介系詞（in, on, at, for, about, without, by 等）後方若接動詞，一律必須變成動名詞 V-ing！\n例：Thank you for helping me. / He left without saying goodbye.\n【公理四：對等連接詞公理】and / but / or 連接的兩個動狀詞必須前後型態對等一致！\n例：He likes reading and swimming. / Mr. Wang plans to visit Japan and take a bath every day."
+        },
+        {
+          "title": "受詞三大陣營與時空旅行動詞陷阱",
+          "text": "【陣營一：只接動名詞 V-ing（具完成、習慣、逃避意象）】\nenjoy（享受）、practice（練習）、finish（完成）、mind（介意）、keep（持續）、avoid（避免）、give up（放棄）。口訣：享受練習終放棄，介意保持 V-ing！\n【陣營二：只接不定詞 to VR（具未來、計畫、意願意象）】\nwant（想要）、hope / wish（希望）、plan（計畫）、decide（決定）、agree（同意）、need（需要）、refuse（拒絕）、would like（想要）。口訣：期待、計畫、決定去未來！\n【陣營三：接 to VR 與 V-ing 皆可且語意相同】\nlike（喜歡）、love（喜愛）、hate（討厭）、start / begin（開始）。例：It started to rain / raining.\n【時空旅行動詞（接 to VR vs. V-ing 語意大不同）】\n1. remember / forget + to VR：記得／忘記「去做（尚未做）」的事。（如：Remember to lock the door. 出門前記得去鎖門）\n2. remember / forget + V-ing：記得／忘記「曾做過（已經完成）」的事。（如：I remember locking the door. 我記得鎖過門了）\n3. stop + to VR：停下手邊事，「去開展」另一件新動作；stop + V-ing：中斷／停止正在做的動作（如：Stop talking!）。"
+        }
+      ],
+      "prompts": [
+        "動名詞與不定詞考前終極心法：\n句首當主詞一律看單數，動詞加 s 不能忘；\nenjoy, practice 接 V-ing；want, plan, decide 接 to VR；\nremember to 去做還沒做，remember -ing 已經做過！"
+      ],
+      "promptTitles": [
+        "動名詞變身速殺"
+      ],
+      "links": [],
+      "quiz": [
+        {
+          "id": "island-05-q1",
+          "question": "________ up early on cold winter mornings is really difficult for most junior high students.",
+          "options": [
+            {
+              "id": "a",
+              "text": "Get"
+            },
+            {
+              "id": "b",
+              "text": "Getting"
+            },
+            {
+              "id": "c",
+              "text": "Got"
+            },
+            {
+              "id": "d",
+              "text": "Have got"
+            }
+          ],
+          "answer": "b",
+          "explanation": "動詞放在句首當主詞，需變身為動名詞（Getting）或不定詞，後方搭配單數動詞 is。故選 (B)。"
+        },
+        {
+          "id": "island-05-q2",
+          "question": "Amy really enjoys ________ mystery novels in the library on Saturday afternoons.",
+          "options": [
+            {
+              "id": "a",
+              "text": "reading"
+            },
+            {
+              "id": "b",
+              "text": "to read"
+            },
+            {
+              "id": "c",
+              "text": "reads"
+            },
+            {
+              "id": "d",
+              "text": "read"
+            }
+          ],
+          "answer": "a",
+          "explanation": "動詞 enjoy（享受）屬於動名詞陣營，其後之動詞必須搭配 V-ing 形式（reading）。故選 (A)。"
+        },
+        {
+          "id": "island-05-q3",
+          "question": "Boss: Did you remember ________ the urgent package to Mr. Jackson?\nSecretary: Oh no, I forgot, but I will do it right away!",
+          "options": [
+            {
+              "id": "a",
+              "text": "send"
+            },
+            {
+              "id": "b",
+              "text": "sending"
+            },
+            {
+              "id": "c",
+              "text": "to send"
+            },
+            {
+              "id": "d",
+              "text": "sent"
+            }
+          ],
+          "answer": "c",
+          "explanation": "由秘書回答「我忘了，我現在馬上做」可知包裹『尚未寄出』。remember to VR 表示『記得去做（未做之事）』。故選 (C)。"
+        },
+        {
+          "id": "island-05-q4",
+          "question": "It is necessary for us ________ a balanced diet to keep healthy.",
+          "options": [
+            {
+              "id": "a",
+              "text": "eating"
+            },
+            {
+              "id": "b",
+              "text": "ate"
+            },
+            {
+              "id": "c",
+              "text": "eats"
+            },
+            {
+              "id": "d",
+              "text": "to eat"
+            }
+          ],
+          "answer": "d",
+          "explanation": "句型「It is + adj + for 人 + to VR」中，It 為虛主詞，真正主詞為後方的不定詞片語 to eat a balanced diet。故選 (D)。"
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "id": "island-06",
+      "name": "黃金算盤島",
+      "aliases": [
+        "花費動詞",
+        "花費",
+        "spend",
+        "pay",
+        "cost",
+        "take"
+      ],
+      "group": "核心進階文法",
+      "intro": "破解 spend、pay、cost、take 四大花費動詞，掌握人花與物花主詞結構算盤。",
+      "goal": "能一眼由主詞與受詞屬性（人／物、金錢／時間）秒判選用花費動詞，並精熟介系詞 on/for 及動詞形態。",
+      "goalLabel": "核心學習目標",
+      "points": [],
+      "extra": "",
+      "link": "",
+      "material": "",
+      "comparison": {
+        "headers": [
+          "動詞",
+          "主詞類型",
+          "花費內容",
+          "介系詞／動詞搭配",
+          "經典公式"
+        ],
+        "rows": [
+          [
+            "spend",
+            "人（唯一能花時間與錢的人）",
+            "金錢 或 時間",
+            "on + 物 / V-ing",
+            "人 + spend + 錢/時 + V-ing"
+          ],
+          [
+            "pay",
+            "人（專門付款買東西）",
+            "金錢",
+            "for + 物",
+            "人 + pay + 錢 + for + 物"
+          ],
+          [
+            "cost",
+            "事物／It（不能是人）",
+            "金錢（三態同形）",
+            "無介系詞",
+            "事物 + cost + 人 + 錢"
+          ],
+          [
+            "take",
+            "虛主詞 It / 動作",
+            "時間（不花錢）",
+            "to VR",
+            "It takes + 人 + 時間 + to VR"
+          ]
+        ]
+      },
+      "blocks": [
+        {
+          "title": "花費動詞四大家族主詞與受詞規則",
+          "text": "英文「花費」必須依主詞是「人」還是「物」，以及花費是「金錢」還是「時間」做嚴格區分：\n1. spend（人花金錢／時間）：主詞必為「人」。\n• 人 + spend + 金錢/時間 + on + 名詞\n• 人 + spend + 金錢/時間 + (in) + V-ing\n例：She spent 500 dollars buying (on) the dress.\n2. pay（人支付金錢）：主詞必為「人」。\n• 人 + pay + 金錢 + for + 物品\n例：I paid 100 dollars for the lunch.\n3. cost（事物耗費金錢）：主詞必為「事物／買某物這件事」。三態同形 (cost - cost - cost)。\n• 事物 + cost + 人 + 金錢\n• It costs + 人 + 金錢 + to VR\n例：The new laptop cost me thirty thousand dollars.\n4. take（耗費時間）：主詞通常為「虛主詞 It」或「動作事物」。\n• It takes + 人 + 時間 + to VR\n例：It took me two hours to finish the report."
+        },
+        {
+          "title": "花費動詞會考陷阱與互換技巧",
+          "text": "同一句花費可以透過四大家族靈活互換，例如「我花了一千元買這雙鞋」：\n• I spent 1,000 dollars on these shoes. (人 + spend + 錢 + on 物)\n• I paid 1,000 dollars for these shoes. (人 + pay + 錢 + for 物)\n• These shoes cost me 1,000 dollars. (物 + cost + 人 + 錢)\n陷阱注意：cost 的主詞絕不能是「人」；take 專責「時間」，絕不能花費「金錢」！"
+        }
+      ],
+      "prompts": [
+        "花費動詞四大家族秒殺口訣：\n人花錢時用 spend（接 on / V-ing）；\n人付款項用 pay for；\n物花金錢用 cost；\n虛主 It 耗時用 take to VR！"
+      ],
+      "promptTitles": [
+        "花費算盤口訣"
+      ],
+      "links": [],
+      "quiz": [
+        {
+          "id": "island-06-q1",
+          "question": "Eric ________ more than two hundred dollars taking a taxi home yesterday after the party.",
+          "options": [
+            {
+              "id": "a",
+              "text": "took"
+            },
+            {
+              "id": "b",
+              "text": "cost"
+            },
+            {
+              "id": "c",
+              "text": "paid"
+            },
+            {
+              "id": "d",
+              "text": "spent"
+            }
+          ],
+          "answer": "d",
+          "explanation": "主詞是人（Eric），花費為金錢（two hundred dollars），後面搭配 V-ing（taking a taxi），公式為 人 + spend + 錢 + V-ing。故選 (D)。"
+        },
+        {
+          "id": "island-06-q2",
+          "question": "How much time did it ________ you to finish the science report yesterday?",
+          "options": [
+            {
+              "id": "a",
+              "text": "spend"
+            },
+            {
+              "id": "b",
+              "text": "take"
+            },
+            {
+              "id": "c",
+              "text": "cost"
+            },
+            {
+              "id": "d",
+              "text": "pay"
+            }
+          ],
+          "answer": "b",
+          "explanation": "句型為「It takes + 人 + 時間 + to VR」，詢問花費多少時間，助動詞 did 後接原形動詞 take。故選 (B)。"
+        },
+        {
+          "id": "island-06-q3",
+          "question": "The newly released smartphone ________ Jason thirty thousand dollars.",
+          "options": [
+            {
+              "id": "a",
+              "text": "spent"
+            },
+            {
+              "id": "b",
+              "text": "paid"
+            },
+            {
+              "id": "c",
+              "text": "cost"
+            },
+            {
+              "id": "d",
+              "text": "took"
+            }
+          ],
+          "answer": "c",
+          "explanation": "主詞是物（The newly released smartphone），花費內容是金錢，結構為「物 + cost + 人 + 錢」。故選 (C)。"
+        },
+        {
+          "id": "island-06-q4",
+          "question": "My sister ________ 800 dollars for this pretty handbag at the night market.",
+          "options": [
+            {
+              "id": "a",
+              "text": "paid"
+            },
+            {
+              "id": "b",
+              "text": "cost"
+            },
+            {
+              "id": "c",
+              "text": "spent"
+            },
+            {
+              "id": "d",
+              "text": "took"
+            }
+          ],
+          "answer": "a",
+          "explanation": "主詞是人，後方搭配介系詞 for + 物品（for this handbag），公式為 人 + pay + 錢 + for + 物。故選 (A)。"
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "id": "island-07",
+      "name": "未來預言島",
+      "aliases": [
+        "未來式",
+        "現在代未來",
+        "條件子句",
+        "時間副詞子句",
+        "will",
+        "going to"
+      ],
+      "group": "時態與綜合句型",
+      "intro": "探索未來式 will 與 be going to，精熟條件與時間副詞子句「現在代未來」會考必考公理。",
+      "goal": "能正確運用未來式表達計畫與預測，並在 if / when / before / after 副詞子句中準確以現在式代替未來式。",
+      "goalLabel": "核心學習目標",
+      "points": [],
+      "extra": "",
+      "link": "",
+      "material": "",
+      "comparison": {
+        "headers": [
+          "句型子句位置",
+          "子句類型",
+          "使用時態與動詞",
+          "例句"
+        ],
+        "rows": [
+          [
+            "主要子句",
+            "主要述句",
+            "未來式（will / be going to + VR）",
+            "We will have a picnic"
+          ],
+          [
+            "副詞子句（If 條件）",
+            "條件子句",
+            "現在簡單式（第三人稱單數加 s）",
+            "if it is sunny tomorrow."
+          ],
+          [
+            "副詞子句（When 時間）",
+            "時間子句",
+            "現在簡單式（不可用 will！）",
+            "when school ends next week."
+          ]
+        ]
+      },
+      "blocks": [
+        {
+          "title": "未來式兩大核心助動詞與往來動詞結構",
+          "text": "未來式（Future Tense）用以表達「未來將發生的事情或預計要做的計畫」：\n1. will + 原形動詞 (VR)：表示單純預測、臨時起意的決定、或客觀未來事實。否定形為 will not = won't。\n例：I think it will rain tomorrow.\n2. be going to + 原形動詞 (VR)：表示事先規劃好的意圖、計畫，或根據現有徵兆即將發生的事。\n例：Look at those dark clouds! It is going to rain.\n3. There be 未來式：There will be... / There is going to be...（未來將會有…）。\n4. 往來動詞現在進行式代未來：go, come, leave, arrive, fly 等移動動詞常以「be + V-ing」表達近期即將發生的安排。\n例：My sister is coming to my home today.\n常見未來時間副詞：tomorrow, next week/year, in the future, the day after tomorrow, tonight。"
+        },
+        {
+          "title": "會考每年必考：副詞子句現在代未來公理",
+          "text": "【文法天條：條件與時間副詞子句中，用『現在簡單式』代替未來式！】\n當句子由 if（如果）、when（當…時）、before（在…前）、after（在…後）、as soon as（一…就）引導副詞子句表示未來的條件或時間時，主要子句用未來式，但連接詞後面的副詞子句絕對不可加 will，必須用「現在簡單式」！\n例：If it rains tomorrow (現在式), we will stay at home (未來式).\n例：We will start dinner as soon as dad comes back."
+        }
+      ],
+      "prompts": [
+        "現在代未來速記口訣：\n未來的世界很精彩，主要子句 will 出現；\n碰到 if, when, before, after 時間條件小跟班，\n現在簡單式顯神威，絕對不能把 will 添！"
+      ],
+      "promptTitles": [
+        "時態預言心法"
+      ],
+      "links": [],
+      "quiz": [
+        {
+          "id": "island-07-q1",
+          "question": "If it ________ fine tomorrow, our class will go on a bike trip around the lake.",
+          "options": [
+            {
+              "id": "a",
+              "text": "is"
+            },
+            {
+              "id": "b",
+              "text": "will be"
+            },
+            {
+              "id": "c",
+              "text": "was"
+            },
+            {
+              "id": "d",
+              "text": "has been"
+            }
+          ],
+          "answer": "a",
+          "explanation": "If 引導的條件副詞子句中，必須以「現在簡單式」代替未來式，主詞 it 搭配現在式 be 動詞 is。故選 (A)。"
+        },
+        {
+          "id": "island-07-q2",
+          "question": "Mr. Lin ________ to New York on business next Monday morning.",
+          "options": [
+            {
+              "id": "a",
+              "text": "flew"
+            },
+            {
+              "id": "b",
+              "text": "is going to fly"
+            },
+            {
+              "id": "c",
+              "text": "flies"
+            },
+            {
+              "id": "d",
+              "text": "flown"
+            }
+          ],
+          "answer": "b",
+          "explanation": "時間副詞為 next Monday morning（下週一早上），為明確未來計畫，使用 be going to + VR。故選 (B)。"
+        },
+        {
+          "id": "island-07-q3",
+          "question": "We will have dinner together as soon as my father ________ home from work tonight.",
+          "options": [
+            {
+              "id": "a",
+              "text": "comes"
+            },
+            {
+              "id": "b",
+              "text": "will come"
+            },
+            {
+              "id": "c",
+              "text": "came"
+            },
+            {
+              "id": "d",
+              "text": "coming"
+            }
+          ],
+          "answer": "a",
+          "explanation": "as soon as（一…就）引導時間副詞子句，需以現在簡單式代替未來式，主詞 father 為第三人稱單數，動詞需加 s（comes）。故選 (A)。"
+        },
+        {
+          "id": "island-07-q4",
+          "question": "Don't worry. I promise I ________ you with your math homework tonight.",
+          "options": [
+            {
+              "id": "a",
+              "text": "helped"
+            },
+            {
+              "id": "b",
+              "text": "am helping"
+            },
+            {
+              "id": "c",
+              "text": "will help"
+            },
+            {
+              "id": "d",
+              "text": "help"
+            }
+          ],
+          "answer": "c",
+          "explanation": "由 I promise（我承諾）與 tonight（今晚）可知是未來的承諾與意願，使用 will + VR。故選 (C)。"
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "id": "island-08",
+      "name": "羅盤領航島",
+      "aliases": [
+        "問路",
+        "指路",
+        "移動介系詞",
+        "方向",
+        "across",
+        "cross",
+        "turn",
+        "block"
+      ],
+      "group": "時態與綜合句型",
+      "intro": "穿梭城市街角，掌握問路、指路生活實用對話與空間移動介系詞。",
+      "goal": "能流暢運用 How can I get to 等問路問句、Go straight/Turn left 等指路祈使句，並辨析 cross 與 across。",
+      "goalLabel": "核心學習目標",
+      "points": [],
+      "extra": "",
+      "link": "",
+      "material": "",
+      "comparison": {
+        "headers": [
+          "詞性",
+          "單字",
+          "文法角色",
+          "經典句型範例"
+        ],
+        "rows": [
+          [
+            "動詞",
+            "cross",
+            "主要動作（穿過/越過）",
+            "Cross the bridge, and you'll see it."
+          ],
+          [
+            "介系詞",
+            "across (from)",
+            "表空間相對位置（在對面）",
+            "The bookstore is across from the park."
+          ],
+          [
+            "動詞",
+            "turn",
+            "方向轉向（左右轉）",
+            "Turn right at the second traffic light."
+          ],
+          [
+            "介系詞",
+            "between... and",
+            "位於兩者之間",
+            "The post office is between the bank and the shop."
+          ]
+        ]
+      },
+      "blocks": [
+        {
+          "title": "四大生活實用問路句型與禮貌用語",
+          "text": "出國旅遊或會考情境題最常見的問路四大金句（開頭一律先說 Excuse me）：\n1. How can I get to + 地點?（我該如何到達…？）\n2. Where is + 地點?（…在哪裡？）\n3. Can you tell me the way to + 地點?（你能告訴我前往…的路嗎？）\n4. Is there a + 設施 + near here?（這附近有…嗎？）"
+        },
+        {
+          "title": "標準指路方向指示與空間介系詞辨析",
+          "text": "指路常用祈使句，清晰具體：\n• Go / Walk straight along / down + 街名（沿著某路直走）。\n• Walk straight for two blocks（直走兩個街區）。\n• Turn left / right at the first corner（在第一個轉角向左／右轉）。\n• on the corner of A and B（在 A 街與 B 街的交叉轉角處）。\n• It is on your right / left（它就在你的右手／左手邊）。\n【重點辨析：cross vs. across vs. through】\n• cross 為動詞：Cross the street carefully.（小心過馬路）\n• across (from) 為介系詞：walk across the street（穿過馬路表面）；The bakery is across from the bank.（麵包店在銀行對面）\n• through 為介系詞：go through the tunnel / forest（從內部穿過隧道或森林）\n常見方位介系詞：next to（在旁邊）、between A and B（在兩者之間）。"
+        }
+      ],
+      "prompts": [
+        "問路指路導航口訣：\n問路禮貌 Excuse me 開頭；How can I get to 最實用；\n直走 Go straight 沿著路；轉角 Turn left 在手中；\ncross 是動詞親自過；across 介系詞在對面！"
+      ],
+      "promptTitles": [
+        "導航指路心法"
+      ],
+      "links": [],
+      "quiz": [
+        {
+          "id": "island-08-q1",
+          "question": "Excuse me, how can I ________ to the Central Park from here?",
+          "options": [
+            {
+              "id": "a",
+              "text": "reach at"
+            },
+            {
+              "id": "b",
+              "text": "get"
+            },
+            {
+              "id": "c",
+              "text": "arrive"
+            },
+            {
+              "id": "d",
+              "text": "go at"
+            }
+          ],
+          "answer": "b",
+          "explanation": "標準問路句型為「How can I get to + 地點?」。reach 為及物動詞不加 at；arrive 需搭配 at/in。故選 (B)。"
+        },
+        {
+          "id": "island-08-q2",
+          "question": "Go straight along Sun Road for two blocks, and you will see the art museum ________ your right.",
+          "options": [
+            {
+              "id": "a",
+              "text": "in"
+            },
+            {
+              "id": "b",
+              "text": "at"
+            },
+            {
+              "id": "c",
+              "text": "on"
+            },
+            {
+              "id": "d",
+              "text": "to"
+            }
+          ],
+          "answer": "c",
+          "explanation": "表示「在某人的右手邊／左手邊」，慣用介系詞為 on，即 on your right / left。故選 (C)。"
+        },
+        {
+          "id": "island-08-q3",
+          "question": "Be very careful when you walk ________ the busy street during rush hour.",
+          "options": [
+            {
+              "id": "a",
+              "text": "across"
+            },
+            {
+              "id": "b",
+              "text": "cross"
+            },
+            {
+              "id": "c",
+              "text": "crossing"
+            },
+            {
+              "id": "d",
+              "text": "crossed"
+            }
+          ],
+          "answer": "a",
+          "explanation": "前方已有主要動詞 walk，walk across（走過/穿越）中 across 作為介系詞。若直接用動詞 cross 則不需 walk。故選 (A)。"
+        },
+        {
+          "id": "island-08-q4",
+          "question": "Turn left ________ the second corner, and the supermarket is between the bank and the coffee shop.",
+          "options": [
+            {
+              "id": "a",
+              "text": "with"
+            },
+            {
+              "id": "b",
+              "text": "for"
+            },
+            {
+              "id": "c",
+              "text": "of"
+            },
+            {
+              "id": "d",
+              "text": "at"
+            }
+          ],
+          "answer": "d",
+          "explanation": "在第幾個轉角轉彎，搭配地點介系詞 at，即 turn left at the corner。故選 (D)。"
+        }
+      ]
+    }
+  ],
+  "residents": [
+    {
+      "id": "resident-01",
+      "name": "小晴",
+      "island": "island-01",
+      "concept": "四大換句法",
+      "text": "下雨下雪有四大換句招式：It rains / It is rainy / We have rain / There is rain，主詞動詞千萬別配錯喔！",
+      "topic": 1
+    },
+    {
+      "id": "resident-02",
+      "name": "阿風",
+      "island": "island-01",
+      "concept": "雨雪詞性轉換",
+      "text": "rain 和 snow 當動詞加副詞 heavily；當名詞不可數，要用 heavy 或 a lot of 修飾喔！",
+      "topic": 0
+    },
+    {
+      "id": "resident-03",
+      "name": "小艾",
+      "island": "island-02",
+      "concept": "to方向陣營",
+      "text": "give、send、show 就像有箭頭的信鴿，把東西直接遞交出去，一律搭配介系詞 to！",
+      "topic": 1
+    },
+    {
+      "id": "resident-04",
+      "name": "波波",
+      "island": "island-02",
+      "concept": "for愛心陣營",
+      "text": "buy、make、cook 充滿了愛心與付出，為家人朋友準備禮物和美食，要用 for 喔！",
+      "topic": 1
+    },
+    {
+      "id": "resident-05",
+      "name": "米雅",
+      "island": "island-03",
+      "concept": "過去進行式",
+      "text": "昨晚八點你在做什麼？特定時刻正在發生的動作，請召喚 was/were + V-ing！",
+      "topic": 0
+    },
+    {
+      "id": "resident-06",
+      "name": "雷恩",
+      "island": "island-03",
+      "concept": "時間子句同步",
+      "text": "when 連接瞬間短動作，背景長動作正在進行中，長短分明，句子自然生動！",
+      "topic": 1
+    },
+    {
+      "id": "resident-07",
+      "name": "諾亞",
+      "island": "island-04",
+      "concept": "所有格代名詞",
+      "text": "my + book = mine！有了所有格代名詞，句子俐落不重複，再也不怕名詞打架！",
+      "topic": 0
+    },
+    {
+      "id": "resident-08",
+      "name": "莉莉",
+      "island": "island-04",
+      "concept": "電話交際用語",
+      "text": "「May I speak to Lily?」——「Speaking!」禮貌又道地，會考交際題穩穩拿滿分！",
+      "topic": 1
+    },
+    {
+      "id": "resident-09",
+      "name": "翔翔",
+      "island": "island-05",
+      "concept": "動名詞當主詞",
+      "text": "動名詞當主詞是單數一件事！「Reading books IS fun」，千萬別被複數名詞騙倒喔！",
+      "topic": 0
+    },
+    {
+      "id": "resident-10",
+      "name": "凱特",
+      "island": "island-05",
+      "concept": "受詞兩大陣營",
+      "text": "enjoy、practice 牽著 V-ing；want、decide 奔向 to VR。陣營分明，文法全通！",
+      "topic": 1
+    },
+    {
+      "id": "resident-11",
+      "name": "芬恩",
+      "island": "island-06",
+      "concept": "人花動詞spend與pay",
+      "text": "人花時間金錢找 spend，記得接 V-ing；付錢買東西找 pay for，主詞都是人喔！",
+      "topic": 0
+    },
+    {
+      "id": "resident-12",
+      "name": "克蘿伊",
+      "island": "island-06",
+      "concept": "物花動詞cost與take",
+      "text": "東西值多少錢用 cost；It 花費多少時間用 take to VR。算盤打得精，題題滿分！",
+      "topic": 1
+    },
+    {
+      "id": "resident-13",
+      "name": "悠真",
+      "island": "island-07",
+      "concept": "現在式代未來",
+      "text": "條件與時間副詞子句最愛考現在代未來！碰到 if 和 when，千萬記得收起 will，用現在式！",
+      "topic": 1
+    },
+    {
+      "id": "resident-14",
+      "name": "雷歐",
+      "island": "island-08",
+      "concept": "問路與空間介系詞",
+      "text": "「Excuse me, how can I get to the island?」清楚指路、辨清 cross 和 across，出國探索不迷路！",
+      "topic": 0
+    }
+  ]
+}
