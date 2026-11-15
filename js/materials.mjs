@@ -6,7 +6,7 @@ export function parseIslandMarkdown(source,central=false){const s=sections(sourc
  const prompts=subsections(s.get('教材提示詞'));for(const p of prompts){const m=/^```text\n([\s\S]*?)\n```$/.exec(p.text);if(!m)throw Error('提示詞須以 text 程式碼區塊包住。');p.text=m[1];}
  const course={...meta,blocks,prompts:prompts.map(p=>p.text),promptTitles:prompts.map(p=>p.title),links:jsonSection(s,'延伸資源'),quiz:jsonSection(s,'隨堂測驗')},residents=jsonSection(s,'島民概念');
  if(!course.id||!course.name||!Array.isArray(course.quiz)||course.quiz.length!==4)throw Error('課程必須保留識別碼、名稱與四題測驗。');
- for(const q of course.quiz)if(!q.id||!q.question||!Array.isArray(q.options)||q.options.length!==4||new Set(q.options.map(o=>o.id)).size!==4||q.options.some(o=>typeof o.text!=='string'||!o.text.trim())||!q.options.some(o=>o.id===q.answer)||!q.explanation)throw Error('測驗題目、選項、答案或解析不完整。');
+ for(const q of course.quiz)if(!q.id||!q.question||!Array.isArray(q.options)||q.options.length<3||q.options.length>4||new Set(q.options.map(o=>o.id)).size!==q.options.length||q.options.some(o=>typeof o.text!=='string'||!o.text.trim())||!q.options.some(o=>o.id===q.answer)||!q.explanation)throw Error('測驗題目、選項、答案或解析不完整。');
  for(const l of course.links)if(!/^https?:\/\//.test(l.url))throw Error('延伸資源須使用完整 http(s) 網址。');
  for(const person of residents)if(person.island!==course.id||!blocks[person.topic])throw Error('島民的 island 或 topic 對應不到教材段落，請同步調整。');
  return {course,residents};

@@ -124,7 +124,7 @@
           ],
           [
             "人物擁有句",
-            "We / People",
+            "We / They",
             "have",
             "a lot of rain（名詞不可數）"
           ],
@@ -208,7 +208,7 @@
           "options": [
             {
               "id": "a",
-              "text": "Yilan had a lot of heavy rain last night."
+              "text": "We/They had a lot of rain in Yilan last night."
             },
             {
               "id": "b",
@@ -217,14 +217,10 @@
             {
               "id": "c",
               "text": "There were many rains in Yilan last night."
-            },
-            {
-              "id": "d",
-              "text": "We had heavily rain in Yilan last night."
             }
           ],
           "answer": "a",
-          "explanation": "原句為 It + rained (動詞) + heavily (副詞)。換為 have 句型時為 人/地方 + had + a lot of + heavy (形容詞) + rain (不可數名詞)。故選 (A)。"
+          "explanation": "原句為 It + rained (動詞) + heavily (副詞)。換為 have 句型時，主詞須用人（We / They），不可用地點（Yilan）當主詞，正確句型為「We/They had a lot of rain in Yilan last night.」；(B) be 動詞後應接形容詞 rainy；(C) rain 為不可數名詞，不可加 s 也不可搭 were many。"
         },
         {
           "id": "island-01-q4",
